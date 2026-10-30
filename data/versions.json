@@ -1,0 +1,33 @@
+{
+ "country": "VG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "SI 2007/1678",
+   "title": "The Virgin Islands Constitution Order 2007 (SI 2007/1678), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2007/1678/made",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 121,
+     "source_url": "https://www.legislation.gov.uk/uksi/2007/1678/made/data.xml",
+     "sha256": "5ff16ef2e8210898ec38b8a51f7384c15c99e732341dc3653d344a6d26e368f4"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Wikidata",
+   "title": "Legal system of British Virgin Islands: open facts from Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q25305",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 3,
+     "source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q25305.json",
+     "sha256": "40d33d420ffe6ffa2a5a179324ef855fca041a966b058a85fdb989800226bf8a"
+    }
+   ]
+  }
+ ]
+}
