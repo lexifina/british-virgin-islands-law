@@ -1,5 +1,7 @@
 # British Virgin Islands: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is British Virgin Islands' national law, which global-law reads at `british-virgin-islands/national/acts/`.
+
 The law of the British Virgin Islands as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
