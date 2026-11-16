@@ -56,6 +56,7 @@ The Constitution is credited to the Order (`SI 2007/1678`); the Wikidata snapsho
 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus: 2 versions of 2 acts, 0 mismatches.
 - Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build. The results are in [`REPRODUCE.md`](REPRODUCE.md); no second build has been compared yet.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -75,6 +76,10 @@ The Constitution is credited to the Order (`SI 2007/1678`); the Wikidata snapsho
 See [`LICENSE`](LICENSE). The Order is Crown copyright, reused from legislation.gov.uk under the Open Government Licence v3.0; the Wikidata facts are CC0 1.0, and Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
